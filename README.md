@@ -73,8 +73,11 @@ cd <your-repo-name>
 # Step 3: Install dependencies
 npm install
 
+# Step 4: Start the development server
+npm run dev
+
+---
+---
 ## 👨‍💻 Author
 Mohammed Nawfal
 Frontend Developer | React & Tailwind Enthusiast
-# Step 4: Start the development server
-npm run dev
