@@ -57,7 +57,7 @@ This project integrates the **Fake Store API** to fetch live products and provid
 - Building **fully responsive layouts** using Tailwind utility classes.  
 - Fetching and handling **external API data** with Axios and useEffect.  
 - Managing cart totals and **dynamic discounts** with clean logic.  
-- Deploying a React + Vite app seamlessly to **Netlify / Vercel**.  
+- Deploying a React + Vite app seamlessly to **Netlify**.  
 
 ---
 
