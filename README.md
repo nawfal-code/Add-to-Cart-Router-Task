@@ -77,7 +77,6 @@ npm install
 npm run dev
 
 ---
----
 ## 👨‍💻 Author
 Mohammed Nawfal
 Frontend Developer | React & Tailwind Enthusiast
